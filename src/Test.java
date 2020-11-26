@@ -1,3 +1,8 @@
+/**
+ * a class test the pots panel and its frame
+ * author: Miray Ayerdem
+ * version : 25/11/2020
+ */
 import java.util.Scanner;
 public class Test {
     public static void main(String[] args)
